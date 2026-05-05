@@ -7,7 +7,7 @@ metadata:
   annotations:
     github.com/project-slug: djanickova/overlay-scorecard-plugin-test
     backstage.io/source-location: url:https://github.com/djanickova/overlay-scorecard-plugin-test/tree/add-readme-test
-    scorecard.io/disabled-metrics: filecheck.readme filecheck.license
+    scorecard.io/disabled-metrics: filecheck.readme,filecheck.license
 spec:
   type: service
   owner: user:test1

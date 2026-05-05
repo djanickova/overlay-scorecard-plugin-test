@@ -5,7 +5,7 @@ kind: Component
 metadata:
   name: no-scorecards
   annotations:
-    scorecard.io/disabled-metrics: filecheck.readme filecheck.license
+    scorecard.io/disabled-metrics: filecheck.readme,filecheck.license
 spec:
   type: service
   owner: user:test1
