@@ -5,8 +5,8 @@ kind: Component
 metadata:
   name: all-scorecards
   annotations:
-    github.com/project-slug: janus-qe/overlay-scorecard-plugin-test
-    backstage.io/source-location: url:https://github.com/janus-qe/overlay-scorecard-plugin-test
+    github.com/project-slug: djanickova/overlay-scorecard-plugin-test
+    backstage.io/source-location: url:https://github.com/djanickova/overlay-scorecard-plugin-test/tree/add-readme-test
     jira/project-key: RSPT
     openssf/scorecard-location: https://api.securityscorecards.dev/projects/github.com/ossf/scorecard
     scorecard.io/disabled-metrics: openssf.maintained

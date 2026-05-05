@@ -5,9 +5,9 @@ kind: Component
 metadata:
   name: invalid-threshold
   annotations:
-    github.com/project-slug: janus-qe/overlay-scorecard-plugin-test
-    backstage.io/source-location: url:https://github.com/janus-qe/overlay-scorecard-plugin-test
-    scorecard.io/github.open_prs.thresholds.rules.error: '>50d'
+    github.com/project-slug: djanickova/overlay-scorecard-plugin-test
+    backstage.io/source-location: url:https://github.com/djanickova/overlay-scorecard-plugin-test/tree/add-readme-test
+    scorecard.io/github.open_prs.thresholds.rules.error: ">50d"
     jira/project-key: RSPT
 spec:
   type: service
